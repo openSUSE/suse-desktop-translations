@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"PO-Revision-Date: 2004-08-09 10:24+0200\n"
+"Last-Translator: Priyavert Sharma<priyavert.sharma@agreeya.com>\n"
+"Language-Team: AgreeYa Solutions <linux_team@agreeya.com>\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: snd.desktop.in.h:1
+msgid "Snd"
+msgstr "Snd"
+
+#: snd.desktop.in.h:2
+msgid "the Snd sound editor"
+msgstr "Snd साऊंड एडिटर"

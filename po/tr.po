@@ -1,0 +1,29 @@
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: @PACKAGE@\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"PO-Revision-Date: 2023-11-05 02:15+0000\n"
+"Last-Translator: yakup <mtopac2018@gmail.com>\n"
+"Language-Team: Turkish <https://l10n.opensuse.org/projects/desktop-file-"
+"translations/update-desktop-files-apps-master/tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.9.1\n"
+
+#: snd.desktop.in.h:1
+msgid "Snd"
+msgstr "Gönder"
+
+#: snd.desktop.in.h:2
+msgid "the Snd sound editor"
+msgstr "Snd ses düzenleyici"

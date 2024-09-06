@@ -1,0 +1,36 @@
+# translation of update-desktop-files-apps.po to Spanish
+# translation of update-desktop-files-apps.po to
+# Carlos E. Robinson <robin.listas@telefonica.net>, 2007.
+# Camaleón <noelamac@gmail.com>, 2008, 2009.
+# Lluis Martinez <lmartinez@sct.ictnet.es>, 2008.
+# Javier Llorente <javier@opensuse.org>, 2010, 2011.
+# David Montero <dark.orion@gmail.com>, 2010, 2011, 2012, 2013.
+# Alex Rodriguez <alexio44@opensuse.org.ni>, 2010.
+# lluis <lmartinez@sct.ictnet.es>, 2011.
+# Ricardo Varas Santana <ricardoivaras@gmail.com>, 2012, 2013.
+# José Juan González <netphilos@gmail.com>, 2013.
+# jcsl <trcs@gmx.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: update-desktop-files-apps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"PO-Revision-Date: 2024-09-03 12:47+0000\n"
+"Last-Translator: \"Marina J. Donis\" <marinajdonis@gmail.com>\n"
+"Language-Team: Spanish <https://l10n.opensuse.org/projects/desktop-file-"
+"translations/update-desktop-files-apps-master/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.1\n"
+"X-Poedit-Language: Spanish\n"
+
+#: snd.desktop.in.h:1
+msgid "Snd"
+msgstr "Editor de sonido Snd"
+
+#: snd.desktop.in.h:2
+msgid "the Snd sound editor"
+msgstr "el editor de sonido Snd"

@@ -1,0 +1,67 @@
+# Translator(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# xdaiana <xdaiana@yahoo.com>
+# drem <a_romanescu@yahoo.co.uk>
+# premamotion <premamotion@yahoo.com>
+# Ursan Marius Bogdan <Creationn@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# Lucian Oprea <oprea.luci@gmail.com>
+# strainu <narro@strainu.ro>
+# yehppael <yehppael@gmail.com>
+# BlueNinja <ovidiumaris@gmail.com>
+# sharkyalex <oprea.alex@yahoo.com>
+# Iosif Fettich <ifettich@netsoft.ro>
+# mannes <dragoscos@gmail.com>
+# Nicu <kneekoo@yahoo.com>
+# vas_galati <vas_galati@yahoo.com>
+# floda61 <floda61@yahoo.com>
+# liviu_pvn <it.putnavrancea@yahoo.com>
+# secarica <orice@secarica.ro>
+# phlo <florin13t@gmail.com>
+# http://blog.ajoian.ro/ <http://blog.ajoian.ro/>
+# rif <fericean@gmail.com>
+# nicubunu <nicubunu@gmail.com>
+# alexef <alex@eftimie.ro>
+# Eugen <bunecieugena@clicknet.ro>
+# Laudatti <Laudatti@gmail.com>
+# Sergiu Bivol <sbivol87@gmail.com>
+# C3po <c.3po_says_hello@yahoo.com>
+# jiji kokuds <trebatu@inbox.com>
+# titus0818 <https://www.google.com/accounts/o8/id?id=AItOawnf9Zm3ejVfK7qHc-TpT2ZYnpjRtqHpxXw>
+#
+# Reviewer(s):
+#
+# xdaiana <xdaiana@yahoo.com>
+# drem <a_romanescu@yahoo.co.uk>
+# Lucian Oprea <oprea.luci@gmail.com>
+# strainu <narro@strainu.ro>
+# sharkyalex <oprea.alex@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+# Comunitatea romana openSUSE - www.suseromania.ro
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenSUSE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"PO-Revision-Date: 2024-05-19 10:46+0000\n"
+"Last-Translator: Coleasa Nicolae <nicolaefericitu@duck.com>\n"
+"Language-Team: Romanian <https://l10n.opensuse.org/projects/desktop-file-"
+"translations/update-desktop-files-apps-master/ro/>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
+
+#: snd.desktop.in.h:1
+msgid "Snd"
+msgstr "Snd"
+
+#: snd.desktop.in.h:2
+msgid "the Snd sound editor"
+msgstr "Editorul de sunet Snd"

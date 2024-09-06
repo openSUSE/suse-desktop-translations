@@ -1,0 +1,32 @@
+# translation of update-desktop-files-apps.po to Swedish
+# translation of update-desktop-files.po to
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# Mattias Newzella <newzella@linux.se>, 2007.
+# Jonas Svensson <jks@ekhorva.se>, 2015, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: update-desktop-files-apps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"PO-Revision-Date: 2023-12-06 13:02+0000\n"
+"Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
+"Language-Team: Swedish <https://l10n.opensuse.org/projects/desktop-file-"
+"translations/update-desktop-files-apps-master/sv/>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.9.1\n"
+
+#: snd.desktop.in.h:1
+msgid "Snd"
+msgstr "Snd"
+
+#: snd.desktop.in.h:2
+msgid "the Snd sound editor"
+msgstr "Snd-ljudredigeraren"

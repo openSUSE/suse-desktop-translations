@@ -1,0 +1,33 @@
+# Copyright (C) 2006 SuSE Linux Products GmbH, Nuernberg
+# This file is distributed under the same license as the package.
+# Karol Sikora <elektrrrus@gmail.com>, 2010.
+# Michał Mroczek <mrocurs@mrocurs.pl>, 2010.
+# Karol Sikora <k.sikora@virtuosite.eu>, 2010.
+# Mariusz Fik <fisiu@opensuse.org>, 2011, 2012.
+# Krzysztof Magda <krzysztof.magda@poczta.fm>, 2012, 2013.
+# Michał Newiak <manveru1986@gmail.com>, 2013.
+# Przemyslaw Bojczuk <pbojczuk@opensuse.org>, 2011, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: update-desktop-files-apps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"PO-Revision-Date: 2023-05-01 19:14+0000\n"
+"Last-Translator: Szymon Scholz <neome@posteo.me>\n"
+"Language-Team: Polish <https://l10n.opensuse.org/projects/desktop-file-"
+"translations/update-desktop-files-apps-master/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.9.1\n"
+
+#: snd.desktop.in.h:1
+msgid "Snd"
+msgstr "Snd"
+
+#: snd.desktop.in.h:2
+msgid "the Snd sound editor"
+msgstr "Edytor dźwięku Snd"

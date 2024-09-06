@@ -1,0 +1,29 @@
+# translation of update-desktop-files.po to French
+# Guillaume GARDET <guillaume.gardet@free.fr>, 2007, 2008, 2009, 2010.
+# stobbart <vda@romandie.com>, 2012.
+# Sylvain Tostain <locnar@gmx.fr>, 2013, 2014.
+# Benoît Monin <benoit.monin@gmx.fr>, 2015.
+# Antoine Belvire <antoine.belvire@laposte.net>, 2014, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: update-desktop-files\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"PO-Revision-Date: 2022-03-03 12:12+0000\n"
+"Last-Translator: Sophie Leroy <sophie@stoquart.com>\n"
+"Language-Team: French <https://l10n.opensuse.org/projects/desktop-file-"
+"translations/update-desktop-files-apps-master/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.9.1\n"
+
+#: snd.desktop.in.h:1
+msgid "Snd"
+msgstr "Snd"
+
+#: snd.desktop.in.h:2
+msgid "the Snd sound editor"
+msgstr "l'éditeur de son Snd"

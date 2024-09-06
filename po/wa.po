@@ -1,0 +1,31 @@
+# translation of update-desktop-files.wa.po to Walloon
+# Translation into the walloon language.
+# Copyright (C) 2007 SUSE Linux Products GmbH.
+#
+# Pablo Saratxaga <pablo@walon.org>, 2001, 2004.
+# Jean Cayron <jean.cayron@base.be>, 2007, 2008, 2009, 2011.
+# jean <jean.cayron@gmail.com>, 2007.
+# Jean Cayron <jean.cayron@base.be>, 2008, 2012.
+# Djan Cayron <jean.cayron@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: update-desktop-files.wa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"PO-Revision-Date: 2012-08-24 14:49+0200\n"
+"Last-Translator: Jean Cayron <jean.cayron@base.be>\n"
+"Language-Team: Walloon <linux-wa@walon.org>\n"
+"Language: wa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: snd.desktop.in.h:1
+msgid "Snd"
+msgstr "Snd"
+
+#: snd.desktop.in.h:2
+msgid "the Snd sound editor"
+msgstr "l' aspougneu d' son Snd"

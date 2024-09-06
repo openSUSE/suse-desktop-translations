@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"NADAProject-Id-Version: desktop-translations 20120919\n"
+
+#: snd.desktop.in.h:1
+msgid "Snd"
+msgstr "Bidali"
+
+#: snd.desktop.in.h:2
+#, fuzzy
+msgid "the Snd sound editor"
+msgstr "dconf editorea"

@@ -1,0 +1,33 @@
+# translation of update-desktop-files-apps.po to Chinese Traditional
+# translation of update-desktop-files-apps.po to
+# @TITLE@
+# Copyright (C) 2006, SUSE Linux GmbH, Nuremberg
+#
+# This file is distributed under the same license as @PACKAGE@ package. FIRST
+#
+# swyear <swyear@gmail.com>, 2008, 2009.
+# Angus J.F. Lai <jingfu.lai@gmail.com>, 2009, 2011.
+# Ray Chen <swyear@opensuse.org>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: update-desktop-files-apps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"PO-Revision-Date: 2021-03-10 14:09+0000\n"
+"Last-Translator: Grace Yu <grace.yu@excel-gits.com>\n"
+"Language-Team: Chinese (Taiwan) <https://l10n.opensuse.org/projects/desktop-"
+"file-translations/update-desktop-files-apps-master/zh_TW/>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.6.1\n"
+
+#: snd.desktop.in.h:1
+msgid "Snd"
+msgstr "Snd"
+
+#: snd.desktop.in.h:2
+msgid "the Snd sound editor"
+msgstr "Snd 音效編輯程式"

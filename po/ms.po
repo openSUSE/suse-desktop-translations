@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tar2po\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"PO-Revision-Date: 2017-05-16 14:43+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: snd.desktop.in.h:1
+msgid "Snd"
+msgstr "Bunyi"
+
+#: snd.desktop.in.h:2
+#, fuzzy
+msgid "the Snd sound editor"
+msgstr "Editor Menu"

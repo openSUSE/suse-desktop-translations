@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tar2po\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"PO-Revision-Date: 2023-08-18 14:15+0000\n"
+"Last-Translator: Gustavs Kivlenieks <kivlenieksgustavs@proton.me>\n"
+"Language-Team: Latvian <https://l10n.opensuse.org/projects/desktop-file-"
+"translations/update-desktop-files-apps-master/lv/>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= "
+"19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);\n"
+"X-Generator: Weblate 4.9.1\n"
+
+#: snd.desktop.in.h:1
+msgid "Snd"
+msgstr "Skaņa"
+
+#: snd.desktop.in.h:2
+#, fuzzy
+msgid "the Snd sound editor"
+msgstr "dconf redaktors"
