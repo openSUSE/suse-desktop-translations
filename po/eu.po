@@ -12,8 +12,9 @@ msgstr ""
 "NADAProject-Id-Version: desktop-translations 20120919\n"
 
 #: snd.desktop.in.h:1
+#, fuzzy
 msgid "Snd"
-msgstr "Bidali"
+msgstr "Soinua"
 
 #: snd.desktop.in.h:2
 #, fuzzy

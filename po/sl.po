@@ -21,8 +21,9 @@ msgstr ""
 "n%100==4 ? 2 : 3);\n"
 
 #: snd.desktop.in.h:1
+#, fuzzy
 msgid "Snd"
-msgstr "Pošlji"
+msgstr "Zvok"
 
 #: snd.desktop.in.h:2
 #, fuzzy

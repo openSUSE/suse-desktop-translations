@@ -19,6 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0\n"
 
 #: snd.desktop.in.h:1
+#, fuzzy
 msgid "Snd"
 msgstr "Âm thanh"
 

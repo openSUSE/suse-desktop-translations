@@ -14,6 +14,7 @@ msgstr ""
 "6 ? 3 : 4);\n"
 
 #: snd.desktop.in.h:1
+#, fuzzy
 msgid "Snd"
 msgstr "Sain"
 

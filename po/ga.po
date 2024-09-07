@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: snd.desktop.in.h:1
+#, fuzzy
 msgid "Snd"
 msgstr "Fuaim"
 

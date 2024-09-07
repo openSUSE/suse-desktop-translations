@@ -20,6 +20,7 @@ msgstr ""
 "X-Generator: Lokalize 2.0\n"
 
 #: snd.desktop.in.h:1
+#, fuzzy
 msgid "Snd"
 msgstr "Lyd"
 

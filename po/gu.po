@@ -13,6 +13,7 @@ msgstr ""
 "X-Generator: KBabel 1.10.2\n"
 
 #: snd.desktop.in.h:1
+#, fuzzy
 msgid "Snd"
 msgstr "સાઉન્ડ"
 

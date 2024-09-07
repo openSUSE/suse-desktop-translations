@@ -23,6 +23,7 @@ msgstr ""
 "X-Generator: Weblate 2.18\n"
 
 #: snd.desktop.in.h:1
+#, fuzzy
 msgid "Snd"
 msgstr "Звук"
 

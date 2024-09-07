@@ -15,6 +15,7 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 #: snd.desktop.in.h:1
+#, fuzzy
 msgid "Snd"
 msgstr "Imesli"
 

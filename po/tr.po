@@ -21,8 +21,9 @@ msgstr ""
 "X-Generator: Weblate 4.9.1\n"
 
 #: snd.desktop.in.h:1
+#, fuzzy
 msgid "Snd"
-msgstr "Gönder"
+msgstr "Ses"
 
 #: snd.desktop.in.h:2
 msgid "the Snd sound editor"

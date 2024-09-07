@@ -21,5 +21,6 @@ msgid "Snd"
 msgstr "Snd"
 
 #: snd.desktop.in.h:2
+#, fuzzy
 msgid "the Snd sound editor"
 msgstr "Uređivač zvuka"

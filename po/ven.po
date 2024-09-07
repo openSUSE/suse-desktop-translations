@@ -11,6 +11,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: snd.desktop.in.h:1
+msgid "Snd"
+msgstr ""
+
 #: snd.desktop.in.h:2
 #, fuzzy
 msgid "the Snd sound editor"
