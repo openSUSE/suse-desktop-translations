@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"POT-Creation-Date: 2024-09-30 22:48+0000\n"
 "PO-Revision-Date: 2017-02-23 20:38+0000\n"
 "Last-Translator: Shyukri Shyukriev <shshyukriev@suse.com>\n"
 "Language-Team: Bulgarian <https://l10n.opensuse.org/projects/desktop-file-"
@@ -13,6 +13,30 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.6\n"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr ""
+
+#: firefox.desktop.in.h:2
+msgid "Web Browser"
+msgstr ""
+
+#: firefox.desktop.in.h:3
+msgid "Browse the Web"
+msgstr ""
+
+#: firefox.desktop.in.h:4
+msgid "New Window"
+msgstr "Нов прозорец"
+
+#: firefox.desktop.in.h:5
+msgid "New Private Browsing Window"
+msgstr "Нов прозорец за поверително сърфиране"
+
+#: firefox.desktop.in.h:6
+msgid "Profile Manager"
+msgstr ""
 
 #: snd.desktop.in.h:1
 msgid "Snd"

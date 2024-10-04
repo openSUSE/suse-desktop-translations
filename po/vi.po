@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"POT-Creation-Date: 2024-09-30 22:48+0000\n"
 "PO-Revision-Date: 2006-07-12 07:32+0200\n"
 "Last-Translator: Phan Vnh Thnh <teppi82@gmail.com>\n"
 "Language-Team: Vietnamese <i18n@suse.de>\n"
@@ -17,6 +17,30 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0\n"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr ""
+
+#: firefox.desktop.in.h:2
+msgid "Web Browser"
+msgstr ""
+
+#: firefox.desktop.in.h:3
+msgid "Browse the Web"
+msgstr ""
+
+#: firefox.desktop.in.h:4
+msgid "New Window"
+msgstr "Cửa sổ mới"
+
+#: firefox.desktop.in.h:5
+msgid "New Private Browsing Window"
+msgstr "Cửa sổ riêng tư mới"
+
+#: firefox.desktop.in.h:6
+msgid "Profile Manager"
+msgstr ""
 
 #: snd.desktop.in.h:1
 #, fuzzy

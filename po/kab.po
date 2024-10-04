@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tar2po\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"POT-Creation-Date: 2024-09-30 22:48+0000\n"
 "PO-Revision-Date: 2019-01-15 20:12+0000\n"
 "Last-Translator: Belkacem Mohammed <belkacem77@gmail.com>\n"
 "Language-Team: Kabyle <https://l10n.opensuse.org/projects/desktop-file-"
@@ -13,6 +13,30 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 3.3\n"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr "Firefox (tunigin tusligt)"
+
+#: firefox.desktop.in.h:2
+msgid "Web Browser"
+msgstr "Sekker iminig n web"
+
+#: firefox.desktop.in.h:3
+msgid "Browse the Web"
+msgstr ""
+
+#: firefox.desktop.in.h:4
+msgid "New Window"
+msgstr ""
+
+#: firefox.desktop.in.h:5
+msgid "New Private Browsing Window"
+msgstr ""
+
+#: firefox.desktop.in.h:6
+msgid "Profile Manager"
+msgstr ""
 
 #: snd.desktop.in.h:1
 #, fuzzy

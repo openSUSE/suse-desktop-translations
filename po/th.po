@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YaST (@memory@)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"POT-Creation-Date: 2024-09-30 22:48+0000\n"
 "PO-Revision-Date: 2008-12-11 12:15+0700\n"
 "Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
@@ -16,6 +16,30 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 0.2\n"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr ""
+
+#: firefox.desktop.in.h:2
+msgid "Web Browser"
+msgstr ""
+
+#: firefox.desktop.in.h:3
+msgid "Browse the Web"
+msgstr ""
+
+#: firefox.desktop.in.h:4
+msgid "New Window"
+msgstr "หน้าต่างใหม่"
+
+#: firefox.desktop.in.h:5
+msgid "New Private Browsing Window"
+msgstr "หน้าต่างส่วนตัวใหม่"
+
+#: firefox.desktop.in.h:6
+msgid "Profile Manager"
+msgstr ""
 
 #: snd.desktop.in.h:1
 #, fuzzy

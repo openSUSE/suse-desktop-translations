@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collect-desktop-files 9.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"POT-Creation-Date: 2024-09-30 22:48+0000\n"
 "PO-Revision-Date: 2024-06-13 12:46+0000\n"
 "Last-Translator: David Medina <medipas@gmail.com>\n"
 "Language-Team: Catalan <https://l10n.opensuse.org/projects/desktop-file-"
@@ -16,6 +16,30 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.5.5\n"
 "X-Poedit-Bookmarks: -1,15,-1,-1,-1,-1,-1,861,-1,-1\n"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr "Firefox"
+
+#: firefox.desktop.in.h:2
+msgid "Web Browser"
+msgstr "Navegador web"
+
+#: firefox.desktop.in.h:3
+msgid "Browse the Web"
+msgstr "Navegueu per la xarxa"
+
+#: firefox.desktop.in.h:4
+msgid "New Window"
+msgstr "Finestra nova"
+
+#: firefox.desktop.in.h:5
+msgid "New Private Browsing Window"
+msgstr "Finestra de navegació privada nova"
+
+#: firefox.desktop.in.h:6
+msgid "Profile Manager"
+msgstr ""
 
 #: snd.desktop.in.h:1
 msgid "Snd"

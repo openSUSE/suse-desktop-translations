@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop-translations 20090605\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"POT-Creation-Date: 2024-09-30 22:48+0000\n"
 "PO-Revision-Date: 2020-02-29 22:55+0000\n"
 "Last-Translator: Yahor Pravdikov <mocachin@protonmail.com>\n"
 "Language-Team: Belarusian <https://l10n.opensuse.org/projects/desktop-file-"
@@ -14,6 +14,30 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.6.1\n"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr "Firefox"
+
+#: firefox.desktop.in.h:2
+msgid "Web Browser"
+msgstr "Вэб-браўзер"
+
+#: firefox.desktop.in.h:3
+msgid "Browse the Web"
+msgstr ""
+
+#: firefox.desktop.in.h:4
+msgid "New Window"
+msgstr "Новае акно"
+
+#: firefox.desktop.in.h:5
+msgid "New Private Browsing Window"
+msgstr "Новае акно адасаблення"
+
+#: firefox.desktop.in.h:6
+msgid "Profile Manager"
+msgstr ""
 
 #: snd.desktop.in.h:1
 #, fuzzy

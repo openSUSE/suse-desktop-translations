@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tar2po\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"POT-Creation-Date: 2024-09-30 22:48+0000\n"
 "PO-Revision-Date: 2023-08-18 14:15+0000\n"
 "Last-Translator: Gustavs Kivlenieks <kivlenieksgustavs@proton.me>\n"
 "Language-Team: Latvian <https://l10n.opensuse.org/projects/desktop-file-"
@@ -14,6 +14,30 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= "
 "19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);\n"
 "X-Generator: Weblate 4.9.1\n"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr ""
+
+#: firefox.desktop.in.h:2
+msgid "Web Browser"
+msgstr ""
+
+#: firefox.desktop.in.h:3
+msgid "Browse the Web"
+msgstr ""
+
+#: firefox.desktop.in.h:4
+msgid "New Window"
+msgstr "Jauns logs"
+
+#: firefox.desktop.in.h:5
+msgid "New Private Browsing Window"
+msgstr "Jauns privātais logs"
+
+#: firefox.desktop.in.h:6
+msgid "Profile Manager"
+msgstr ""
 
 #: snd.desktop.in.h:1
 #, fuzzy

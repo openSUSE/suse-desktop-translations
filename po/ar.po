@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collect-desktop-files 9.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"POT-Creation-Date: 2024-09-30 22:48+0000\n"
 "PO-Revision-Date: 2023-05-11 14:14+0000\n"
 "Last-Translator: meshari alnaim <m.alnaim426@gmail.com>\n"
 "Language-Team: Arabic <https://l10n.opensuse.org/projects/desktop-file-"
@@ -20,6 +20,30 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Weblate 4.9.1\n"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr "فيَرفُكس"
+
+#: firefox.desktop.in.h:2
+msgid "Web Browser"
+msgstr "متصفّح وِب"
+
+#: firefox.desktop.in.h:3
+msgid "Browse the Web"
+msgstr ""
+
+#: firefox.desktop.in.h:4
+msgid "New Window"
+msgstr "نافذة جديدة"
+
+#: firefox.desktop.in.h:5
+msgid "New Private Browsing Window"
+msgstr "نافذة تصفح خاصة الجديدة"
+
+#: firefox.desktop.in.h:6
+msgid "Profile Manager"
+msgstr ""
 
 #: snd.desktop.in.h:1
 msgid "Snd"

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: update-desktop-files-apps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"POT-Creation-Date: 2024-09-30 22:48+0000\n"
 "PO-Revision-Date: 2023-12-06 13:02+0000\n"
 "Last-Translator: Luna  Jernberg <bittin@opensuse.org>\n"
 "Language-Team: Swedish <https://l10n.opensuse.org/projects/desktop-file-"
@@ -22,6 +22,30 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.9.1\n"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr "Firefox"
+
+#: firefox.desktop.in.h:2
+msgid "Web Browser"
+msgstr "Webbläsare"
+
+#: firefox.desktop.in.h:3
+msgid "Browse the Web"
+msgstr "Surfa på webben"
+
+#: firefox.desktop.in.h:4
+msgid "New Window"
+msgstr ""
+
+#: firefox.desktop.in.h:5
+msgid "New Private Browsing Window"
+msgstr ""
+
+#: firefox.desktop.in.h:6
+msgid "Profile Manager"
+msgstr ""
 
 #: snd.desktop.in.h:1
 msgid "Snd"

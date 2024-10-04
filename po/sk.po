@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: collect-desktop-files 9.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"POT-Creation-Date: 2024-09-30 22:48+0000\n"
 "PO-Revision-Date: 2024-09-03 16:47+0000\n"
 "Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
 "Language-Team: Slovak <https://l10n.opensuse.org/projects/desktop-file-"
@@ -18,6 +18,30 @@ msgstr ""
 "X-Generator: Weblate 5.7.1\n"
 "X-Poedit-Language: Slovak\n"
 "X-Poedit-Country: SLOVAKIA\n"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr "Firefox"
+
+#: firefox.desktop.in.h:2
+msgid "Web Browser"
+msgstr "Webový prehliadač"
+
+#: firefox.desktop.in.h:3
+msgid "Browse the Web"
+msgstr "Prehľadávanie webu"
+
+#: firefox.desktop.in.h:4
+msgid "New Window"
+msgstr "Nové okno"
+
+#: firefox.desktop.in.h:5
+msgid "New Private Browsing Window"
+msgstr "Nové okno v režime Súkromné prehliadanie"
+
+#: firefox.desktop.in.h:6
+msgid "Profile Manager"
+msgstr ""
 
 #: snd.desktop.in.h:1
 msgid "Snd"

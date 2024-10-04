@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Greek (desktop-file-translations)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"POT-Creation-Date: 2024-09-30 22:48+0000\n"
 "PO-Revision-Date: 2018-04-26 18:07+0000\n"
 "Last-Translator: Konstantina Tsolakoglou <konstantina@accountant.com>\n"
 "Language-Team: Greek <https://l10n.opensuse.org/projects/desktop-file-"
@@ -13,6 +13,30 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.18\n"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr "Firefox"
+
+#: firefox.desktop.in.h:2
+msgid "Web Browser"
+msgstr "Περιηγητής ιστοσελίδων"
+
+#: firefox.desktop.in.h:3
+msgid "Browse the Web"
+msgstr ""
+
+#: firefox.desktop.in.h:4
+msgid "New Window"
+msgstr "Νέο παράθυρο"
+
+#: firefox.desktop.in.h:5
+msgid "New Private Browsing Window"
+msgstr "Νέο παράθυρο ιδιωτικής περιήγησης"
+
+#: firefox.desktop.in.h:6
+msgid "Profile Manager"
+msgstr ""
 
 #: snd.desktop.in.h:1
 msgid "Snd"

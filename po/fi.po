@@ -21,7 +21,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: update-desktop-files-apps.fi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"POT-Creation-Date: 2024-09-30 22:48+0000\n"
 "PO-Revision-Date: 2023-03-14 13:14+0000\n"
 "Last-Translator: Kimmo Kujansuu <mrkujansuu@gmail.com>\n"
 "Language-Team: Finnish <https://l10n.opensuse.org/projects/desktop-file-"
@@ -32,6 +32,30 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.9.1\n"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr "Firefox"
+
+#: firefox.desktop.in.h:2
+msgid "Web Browser"
+msgstr "Verkkoselain"
+
+#: firefox.desktop.in.h:3
+msgid "Browse the Web"
+msgstr "Selaa Internetin WWW-sivuja"
+
+#: firefox.desktop.in.h:4
+msgid "New Window"
+msgstr "Uusi ikkuna"
+
+#: firefox.desktop.in.h:5
+msgid "New Private Browsing Window"
+msgstr "Uusi yksityinen ikkuna"
+
+#: firefox.desktop.in.h:6
+msgid "Profile Manager"
+msgstr ""
 
 #: snd.desktop.in.h:1
 msgid "Snd"

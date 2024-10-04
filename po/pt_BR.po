@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: update-desktop-files-apps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"POT-Creation-Date: 2024-09-30 22:48+0000\n"
 "PO-Revision-Date: 2024-07-05 15:47+0000\n"
 "Last-Translator: Rodrigo Macedo <sottomaiormacedotec@sottomaiormacedo.tech>\n"
 "Language-Team: Portuguese (Brazil) <https://l10n.opensuse.org/projects/"
@@ -27,6 +27,30 @@ msgstr ""
 "X-Poedit-Language: Portuguese\n"
 "X-Poedit-Country: BRAZIL\n"
 "X-Poedit-SourceCharset: utf-8\n"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr "Firefox"
+
+#: firefox.desktop.in.h:2
+msgid "Web Browser"
+msgstr "Navegador Web"
+
+#: firefox.desktop.in.h:3
+msgid "Browse the Web"
+msgstr "Navegue na Internet"
+
+#: firefox.desktop.in.h:4
+msgid "New Window"
+msgstr "Nova janela"
+
+#: firefox.desktop.in.h:5
+msgid "New Private Browsing Window"
+msgstr "Nova janela privativa"
+
+#: firefox.desktop.in.h:6
+msgid "Profile Manager"
+msgstr ""
 
 #: snd.desktop.in.h:1
 msgid "Snd"

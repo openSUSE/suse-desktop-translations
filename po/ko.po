@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: update-desktop-files-apps.ko\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"POT-Creation-Date: 2024-09-30 22:48+0000\n"
 "PO-Revision-Date: 2019-03-14 18:03+0000\n"
 "Last-Translator: DaeHyun Sung <sungdh86@gmail.com>\n"
 "Language-Team: Korean <https://l10n.opensuse.org/projects/desktop-file-"
@@ -16,6 +16,30 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-Language: Korean\n"
 "X-Poedit-Country: KOREA, REPUBLIC OF\n"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr ""
+
+#: firefox.desktop.in.h:2
+msgid "Web Browser"
+msgstr "웹 브라우저"
+
+#: firefox.desktop.in.h:3
+msgid "Browse the Web"
+msgstr "웹을 돌아 다닙니다"
+
+#: firefox.desktop.in.h:4
+msgid "New Window"
+msgstr "새 창"
+
+#: firefox.desktop.in.h:5
+msgid "New Private Browsing Window"
+msgstr "새 사생활 보호 모드"
+
+#: firefox.desktop.in.h:6
+msgid "Profile Manager"
+msgstr ""
 
 #: snd.desktop.in.h:1
 msgid "Snd"
