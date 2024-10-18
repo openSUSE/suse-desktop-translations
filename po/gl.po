@@ -11,16 +11,16 @@ msgstr ""
 "Project-Id-Version: update-desktop-files-apps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-30 22:48+0000\n"
-"PO-Revision-Date: 2019-03-14 18:03+0000\n"
-"Last-Translator: Antía Roig <antiaroig@gmail.com>\n"
-"Language-Team: Galician <https://l10n.opensuse.org/projects/desktop-file-"
-"translations/update-desktop-files-apps-master/gl/>\n"
+"PO-Revision-Date: 2024-10-19 12:48+0000\n"
+"Last-Translator: Manuel Vazquez <xixirei@yahoo.es>\n"
+"Language-Team: Galician <https://l10n.opensuse.org/projects/"
+"suse-desktop-translations/main/gl/>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 5.7.2\n"
 
 #: firefox.desktop.in.h:1
 msgid "Firefox"
@@ -28,11 +28,11 @@ msgstr "Firefox"
 
 #: firefox.desktop.in.h:2
 msgid "Web Browser"
-msgstr ""
+msgstr "Navegador Web"
 
 #: firefox.desktop.in.h:3
 msgid "Browse the Web"
-msgstr ""
+msgstr "Navegue pola web"
 
 #: firefox.desktop.in.h:4
 msgid "New Window"
@@ -40,15 +40,15 @@ msgstr "Nova xanela"
 
 #: firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
-msgstr "Nova xanela privada"
+msgstr "Nova xanela de navegación privada"
 
 #: firefox.desktop.in.h:6
 msgid "Profile Manager"
-msgstr ""
+msgstr "Xestor de perfís"
 
 #: snd.desktop.in.h:1
 msgid "Snd"
-msgstr "Snd"
+msgstr "Editor de son Snd"
 
 #: snd.desktop.in.h:2
 msgid "the Snd sound editor"
