@@ -15,16 +15,16 @@ msgstr ""
 "Project-Id-Version: update-desktop-files-apps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-30 22:48+0000\n"
-"PO-Revision-Date: 2024-09-03 12:47+0000\n"
+"PO-Revision-Date: 2024-10-19 12:48+0000\n"
 "Last-Translator: \"Marina J. Donis\" <marinajdonis@gmail.com>\n"
-"Language-Team: Spanish <https://l10n.opensuse.org/projects/desktop-file-"
-"translations/update-desktop-files-apps-master/es/>\n"
+"Language-Team: Spanish <https://l10n.opensuse.org/projects/"
+"suse-desktop-translations/main/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.1\n"
+"X-Generator: Weblate 5.7.2\n"
 "X-Poedit-Language: Spanish\n"
 
 #: firefox.desktop.in.h:1
@@ -41,15 +41,15 @@ msgstr "Navegue por la web"
 
 #: firefox.desktop.in.h:4
 msgid "New Window"
-msgstr ""
+msgstr "Nueva Ventana"
 
 #: firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
-msgstr ""
+msgstr "Nueva Ventana de Navegación Privada"
 
 #: firefox.desktop.in.h:6
 msgid "Profile Manager"
-msgstr ""
+msgstr "Gestor de Perfiles"
 
 #: snd.desktop.in.h:1
 msgid "Snd"
