@@ -3,28 +3,28 @@ msgstr ""
 "Project-Id-Version: @PACKAGE@\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-30 22:48+0000\n"
-"PO-Revision-Date: 2023-02-18 18:14+0000\n"
+"PO-Revision-Date: 2024-11-03 10:48+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
-"Language-Team: Georgian <https://l10n.opensuse.org/projects/desktop-file-"
-"translations/update-desktop-files-apps-master/ka/>\n"
+"Language-Team: Georgian <https://l10n.opensuse.org/projects/"
+"suse-desktop-translations/main/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.9.1\n"
+"X-Generator: Weblate 5.8.2\n"
 
 #: firefox.desktop.in.h:1
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #: firefox.desktop.in.h:2
 msgid "Web Browser"
-msgstr ""
+msgstr "ბრაუზერი"
 
 #: firefox.desktop.in.h:3
 msgid "Browse the Web"
-msgstr ""
+msgstr "იმუშავეთ ინტერნეტში"
 
 #: firefox.desktop.in.h:4
 msgid "New Window"
@@ -36,14 +36,12 @@ msgstr "ახალი პირადი ფანჯარა"
 
 #: firefox.desktop.in.h:6
 msgid "Profile Manager"
-msgstr ""
+msgstr "პროფილების მმართველი"
 
 #: snd.desktop.in.h:1
-#, fuzzy
 msgid "Snd"
-msgstr "საუნდ ჯუისერი"
+msgstr "Snd"
 
 #: snd.desktop.in.h:2
-#, fuzzy
 msgid "the Snd sound editor"
-msgstr "მენიუს რედაქტორი"
+msgstr "ხმის რედაქტორი Snd"
