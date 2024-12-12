@@ -34,7 +34,7 @@ msgstr "ဝင်းဒိုးအသစ်"
 
 #: firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
-msgstr "New Private Window"
+msgstr ""
 
 #: firefox.desktop.in.h:6
 msgid "Profile Manager"
