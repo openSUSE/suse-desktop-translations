@@ -30,11 +30,11 @@ msgstr ""
 
 #: firefox.desktop.in.h:4
 msgid "New Window"
-msgstr ""
+msgstr "नया विंडो"
 
 #: firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
-msgstr ""
+msgstr "नयी निजी विंडो"
 
 #: firefox.desktop.in.h:6
 msgid "Profile Manager"

@@ -25,11 +25,11 @@ msgstr ""
 
 #: firefox.desktop.in.h:4
 msgid "New Window"
-msgstr ""
+msgstr "Nij finster"
 
 #: firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
-msgstr ""
+msgstr "Nij priveefinster"
 
 #: firefox.desktop.in.h:6
 msgid "Profile Manager"
