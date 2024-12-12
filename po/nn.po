@@ -1,23 +1,21 @@
-# @TITLE@
-# Copyright (C) 2011, SUSE Linux GmbH, Nuremberg
-# This file is distributed under the same license as @PACKAGE@ package. FIRST
-# Karl Ove Hufthammer <karl@huftis.org>, 2015.
-#
+# Norwegian Nynorsk translations for PACKAGE package.
+# Copyright (C) 2024 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2024.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: @PACKAGE@\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-30 22:48+0000\n"
-"PO-Revision-Date: 2015-09-21 17:49+0100\n"
-"Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
-"Language-Team: NorwegianNynorsk <i18n-nn@lister.ping.uio.no>\n"
+"POT-Creation-Date: 2024-10-04 15:34+0200\n"
+"PO-Revision-Date: 2024-10-04 15:34+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
 "Language: nn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 2.0\n"
 
 #: firefox.desktop.in.h:1
 msgid "Firefox"
@@ -31,13 +29,11 @@ msgstr "Nettlesar"
 msgid "Browse the Web"
 msgstr "Surf på nettet"
 
-#: firefox.desktop.in.h:4
 msgid "New Window"
-msgstr ""
+msgstr "Nytt vindauge"
 
-#: firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
-msgstr ""
+msgstr "Nytt privat vindauge"
 
 #: firefox.desktop.in.h:6
 msgid "Profile Manager"
