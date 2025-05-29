@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: tar2po\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-30 22:48+0000\n"
-"PO-Revision-Date: 2019-01-15 20:12+0000\n"
-"Last-Translator: Belkacem Mohammed <belkacem77@gmail.com>\n"
-"Language-Team: Kabyle <https://l10n.opensuse.org/projects/desktop-file-"
-"translations/update-desktop-files-apps-master/kab/>\n"
+"PO-Revision-Date: 2025-05-30 19:59+0000\n"
+"Last-Translator: Athmane MOKRAOUI <butterflyoffire+opensuse@protonmail.com>\n"
+"Language-Team: Kabyle <https://l10n.opensuse.org/projects/"
+"suse-desktop-translations/main/kab/>\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: firefox.desktop.in.h:1
 msgid "Firefox"
@@ -24,24 +24,23 @@ msgstr "Sekker iminig n web"
 
 #: firefox.desktop.in.h:3
 msgid "Browse the Web"
-msgstr ""
+msgstr "Inig deg Internet"
 
 #: firefox.desktop.in.h:4
 msgid "New Window"
-msgstr ""
+msgstr "Asfaylu amaynut"
 
 #: firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
-msgstr ""
+msgstr "Asfaylu amaynut n tunigin tusligt"
 
 #: firefox.desktop.in.h:6
 msgid "Profile Manager"
-msgstr ""
+msgstr "Amsefrak n umaɣnu"
 
 #: snd.desktop.in.h:1
-#, fuzzy
 msgid "Snd"
-msgstr "Imesli"
+msgstr "Snd"
 
 #: snd.desktop.in.h:2
 msgid "the Snd sound editor"
