@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-30 22:48+0000\n"
+"Project-Id-Version: suse-desktop-translations\n"
+"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2024-10-04 15:34+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -16,28 +16,36 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: firefox.desktop.in.h:1
-msgid "Firefox"
+#: com.langorigami.TreeMaker.desktop.in.h:1
+msgid "Origami Designer"
 msgstr ""
 
-#: firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:1
+msgid "Firefox ESR"
+msgstr ""
+
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
 msgid "Web Browser"
 msgstr ""
 
-#: firefox.desktop.in.h:3
+#: firefox-esr.desktop.in.h:3 firefox.desktop.in.h:3
 msgid "Browse the Web"
 msgstr ""
 
-#: firefox.desktop.in.h:4
+#: firefox-esr.desktop.in.h:4 firefox.desktop.in.h:4
 msgid "New Window"
 msgstr "K'ak'a' tzuwäch"
 
-#: firefox.desktop.in.h:5
+#: firefox-esr.desktop.in.h:5 firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
 msgstr "K'ak'a' ichinan tzuwäch"
 
-#: firefox.desktop.in.h:6
+#: firefox-esr.desktop.in.h:6 firefox.desktop.in.h:6
 msgid "Profile Manager"
+msgstr ""
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
 msgstr ""
 
 #: snd.desktop.in.h:1

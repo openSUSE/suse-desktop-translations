@@ -3,24 +3,11 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  firefox.pot (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-30 22:48+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  snd.pot (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-06 15:25+0000\n"
+"Project-Id-Version: suse-desktop-translations 0.20250825\n"
+"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,28 +16,36 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: firefox.desktop.in.h:1
-msgid "Firefox"
+#: com.langorigami.TreeMaker.desktop.in.h:1
+msgid "Origami Designer"
 msgstr ""
 
-#: firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:1
+msgid "Firefox ESR"
+msgstr ""
+
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
 msgid "Web Browser"
 msgstr ""
 
-#: firefox.desktop.in.h:3
+#: firefox-esr.desktop.in.h:3 firefox.desktop.in.h:3
 msgid "Browse the Web"
 msgstr ""
 
-#: firefox.desktop.in.h:4
+#: firefox-esr.desktop.in.h:4 firefox.desktop.in.h:4
 msgid "New Window"
 msgstr ""
 
-#: firefox.desktop.in.h:5
+#: firefox-esr.desktop.in.h:5 firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
 msgstr ""
 
-#: firefox.desktop.in.h:6
+#: firefox-esr.desktop.in.h:6 firefox.desktop.in.h:6
 msgid "Profile Manager"
+msgstr ""
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
 msgstr ""
 
 #: snd.desktop.in.h:1

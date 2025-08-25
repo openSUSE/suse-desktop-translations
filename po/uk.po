@@ -11,9 +11,9 @@
 # Andriy Bandura <andriykopanytsia@gmail.com>, 2014, 2015, 2016.
 msgid ""
 msgstr ""
-"Project-Id-Version: update-desktop-files-apps.uk\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-30 22:48+0000\n"
+"Project-Id-Version: suse-desktop-translations\n"
+"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2022-01-31 01:11+0000\n"
 "Last-Translator: Taras Panchenko <top39@ukr.net>\n"
 "Language-Team: Ukrainian <https://l10n.opensuse.org/projects/desktop-file-"
@@ -26,29 +26,37 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.9.1\n"
 
-#: firefox.desktop.in.h:1
-msgid "Firefox"
+#: com.langorigami.TreeMaker.desktop.in.h:1
+msgid "Origami Designer"
+msgstr ""
+
+#: firefox-esr.desktop.in.h:1
+msgid "Firefox ESR"
 msgstr "Firefox"
 
-#: firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
 msgid "Web Browser"
 msgstr "Навігатор Тенет"
 
-#: firefox.desktop.in.h:3
+#: firefox-esr.desktop.in.h:3 firefox.desktop.in.h:3
 msgid "Browse the Web"
 msgstr "Перегляд веб-сторінок"
 
-#: firefox.desktop.in.h:4
+#: firefox-esr.desktop.in.h:4 firefox.desktop.in.h:4
 msgid "New Window"
 msgstr "Нове вікно"
 
-#: firefox.desktop.in.h:5
+#: firefox-esr.desktop.in.h:5 firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
 msgstr "Приватне вікно"
 
-#: firefox.desktop.in.h:6
+#: firefox-esr.desktop.in.h:6 firefox.desktop.in.h:6
 msgid "Profile Manager"
 msgstr "Менеджер профілів"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr "Firefox"
 
 #: snd.desktop.in.h:1
 msgid "Snd"

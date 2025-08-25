@@ -8,9 +8,9 @@
 # KDB <brar.kd@gmail.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: update-desktop-files-apps.pa\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-30 22:48+0000\n"
+"Project-Id-Version: suse-desktop-translations\n"
+"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2008-11-23 08:16+0530\n"
 "Last-Translator: KDB <brar.kd@gmail.com>\n"
 "Language-Team: Panjabi <punjabi-l10n@list.sf.net>\n"
@@ -21,28 +21,36 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: firefox.desktop.in.h:1
-msgid "Firefox"
+#: com.langorigami.TreeMaker.desktop.in.h:1
+msgid "Origami Designer"
 msgstr ""
 
-#: firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:1
+msgid "Firefox ESR"
+msgstr ""
+
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
 msgid "Web Browser"
 msgstr ""
 
-#: firefox.desktop.in.h:3
+#: firefox-esr.desktop.in.h:3 firefox.desktop.in.h:3
 msgid "Browse the Web"
 msgstr ""
 
-#: firefox.desktop.in.h:4
+#: firefox-esr.desktop.in.h:4 firefox.desktop.in.h:4
 msgid "New Window"
 msgstr ""
 
-#: firefox.desktop.in.h:5
+#: firefox-esr.desktop.in.h:5 firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
 msgstr ""
 
-#: firefox.desktop.in.h:6
+#: firefox-esr.desktop.in.h:6 firefox.desktop.in.h:6
 msgid "Profile Manager"
+msgstr ""
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
 msgstr ""
 
 #: snd.desktop.in.h:1

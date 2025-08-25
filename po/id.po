@@ -1,9 +1,9 @@
 # Arif Budiman <arifpedia@gmail.com>, 2017.
 msgid ""
 msgstr ""
-"Project-Id-Version: @PACKAGE@\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-30 22:48+0000\n"
+"Project-Id-Version: suse-desktop-translations\n"
+"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2022-03-07 06:12+0000\n"
 "Last-Translator: Kukuh Syafaat <syafaatkukuh@gmail.com>\n"
 "Language-Team: Indonesian <https://l10n.opensuse.org/projects/desktop-file-"
@@ -15,29 +15,37 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.9.1\n"
 
-#: firefox.desktop.in.h:1
-msgid "Firefox"
+#: com.langorigami.TreeMaker.desktop.in.h:1
+msgid "Origami Designer"
+msgstr ""
+
+#: firefox-esr.desktop.in.h:1
+msgid "Firefox ESR"
 msgstr "Firefox"
 
-#: firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
 msgid "Web Browser"
 msgstr "Peramban Web"
 
-#: firefox.desktop.in.h:3
+#: firefox-esr.desktop.in.h:3 firefox.desktop.in.h:3
 msgid "Browse the Web"
 msgstr ""
 
-#: firefox.desktop.in.h:4
+#: firefox-esr.desktop.in.h:4 firefox.desktop.in.h:4
 msgid "New Window"
 msgstr "Jendela Baru"
 
-#: firefox.desktop.in.h:5
+#: firefox-esr.desktop.in.h:5 firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
 msgstr "Jendela Mode Pribadi Baru"
 
-#: firefox.desktop.in.h:6
+#: firefox-esr.desktop.in.h:6 firefox.desktop.in.h:6
 msgid "Profile Manager"
 msgstr ""
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr "Firefox"
 
 #: snd.desktop.in.h:1
 msgid "Snd"

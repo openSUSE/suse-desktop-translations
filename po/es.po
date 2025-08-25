@@ -12,13 +12,13 @@
 # jcsl <trcs@gmx.com>, 2014.
 msgid ""
 msgstr ""
-"Project-Id-Version: update-desktop-files-apps\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-30 22:48+0000\n"
+"Project-Id-Version: suse-desktop-translations\n"
+"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2025-08-08 10:59+0000\n"
 "Last-Translator: Javier Llorente <javier@opensuse.org>\n"
-"Language-Team: Spanish <https://l10n.opensuse.org/projects/"
-"suse-desktop-translations/main/es/>\n"
+"Language-Team: Spanish <https://l10n.opensuse.org/projects/suse-desktop-"
+"translations/main/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,29 +27,37 @@ msgstr ""
 "X-Generator: Weblate 5.12.2\n"
 "X-Poedit-Language: Spanish\n"
 
-#: firefox.desktop.in.h:1
-msgid "Firefox"
+#: com.langorigami.TreeMaker.desktop.in.h:1
+msgid "Origami Designer"
+msgstr ""
+
+#: firefox-esr.desktop.in.h:1
+msgid "Firefox ESR"
 msgstr "Firefox"
 
-#: firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
 msgid "Web Browser"
 msgstr "Navegador web"
 
-#: firefox.desktop.in.h:3
+#: firefox-esr.desktop.in.h:3 firefox.desktop.in.h:3
 msgid "Browse the Web"
 msgstr "Navegue por la web"
 
-#: firefox.desktop.in.h:4
+#: firefox-esr.desktop.in.h:4 firefox.desktop.in.h:4
 msgid "New Window"
 msgstr "Nueva ventana"
 
-#: firefox.desktop.in.h:5
+#: firefox-esr.desktop.in.h:5 firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
 msgstr "Nueva ventana de navegación privada"
 
-#: firefox.desktop.in.h:6
+#: firefox-esr.desktop.in.h:6 firefox.desktop.in.h:6
 msgid "Profile Manager"
 msgstr "Gestor de perfiles"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr "Firefox"
 
 #: snd.desktop.in.h:1
 msgid "Snd"

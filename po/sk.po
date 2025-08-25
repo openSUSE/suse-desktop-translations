@@ -3,13 +3,13 @@
 # Ferdinand Galko <galko.ferdinand@gmail.com>, 2015, 2017, 2018.
 msgid ""
 msgstr ""
-"Project-Id-Version: collect-desktop-files 9.0.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-30 22:48+0000\n"
+"Project-Id-Version: suse-desktop-translations\n"
+"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2024-10-06 00:19+0000\n"
 "Last-Translator: Ferdinand Galko <galko.ferdinand@gmail.com>\n"
-"Language-Team: Slovak <https://l10n.opensuse.org/projects/"
-"suse-desktop-translations/main/sk/>\n"
+"Language-Team: Slovak <https://l10n.opensuse.org/projects/suse-desktop-"
+"translations/main/sk/>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,29 +19,37 @@ msgstr ""
 "X-Poedit-Language: Slovak\n"
 "X-Poedit-Country: SLOVAKIA\n"
 
-#: firefox.desktop.in.h:1
-msgid "Firefox"
+#: com.langorigami.TreeMaker.desktop.in.h:1
+msgid "Origami Designer"
+msgstr "Origami dizajnér"
+
+#: firefox-esr.desktop.in.h:1
+msgid "Firefox ESR"
 msgstr "Firefox"
 
-#: firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
 msgid "Web Browser"
 msgstr "Webový prehliadač"
 
-#: firefox.desktop.in.h:3
+#: firefox-esr.desktop.in.h:3 firefox.desktop.in.h:3
 msgid "Browse the Web"
 msgstr "Prehľadávanie webu"
 
-#: firefox.desktop.in.h:4
+#: firefox-esr.desktop.in.h:4 firefox.desktop.in.h:4
 msgid "New Window"
 msgstr "Nové okno"
 
-#: firefox.desktop.in.h:5
+#: firefox-esr.desktop.in.h:5 firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
 msgstr "Nové okno v režime Súkromné prehliadanie"
 
-#: firefox.desktop.in.h:6
+#: firefox-esr.desktop.in.h:6 firefox.desktop.in.h:6
 msgid "Profile Manager"
 msgstr "Správca profilov"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr "Firefox"
 
 #: snd.desktop.in.h:1
 msgid "Snd"

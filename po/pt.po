@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-04 15:34+0200\n"
+"Project-Id-Version: suse-desktop-translations\n"
+"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2024-10-04 15:34+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -16,28 +16,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.6.1\n"
+
+#: com.langorigami.TreeMaker.desktop.in.h:1
+msgid "Origami Designer"
+msgstr ""
+
+#: firefox-esr.desktop.in.h:1
+msgid "Firefox ESR"
+msgstr "Firefox"
+
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
+msgid "Web Browser"
+msgstr "Navegador de internet"
+
+#: firefox-esr.desktop.in.h:3 firefox.desktop.in.h:3
+msgid "Browse the Web"
+msgstr "Navegue na Internet"
+
+#: firefox-esr.desktop.in.h:4 firefox.desktop.in.h:4
+msgid "New Window"
+msgstr "Nova janela"
+
+#: firefox-esr.desktop.in.h:5 firefox.desktop.in.h:5
+msgid "New Private Browsing Window"
+msgstr "Nova janela privada"
+
+#: firefox-esr.desktop.in.h:6 firefox.desktop.in.h:6
+msgid "Profile Manager"
+msgstr ""
 
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr "Firefox"
-
-#: firefox.desktop.in.h:2
-msgid "Web Browser"
-msgstr "Navegador de internet"
-
-#: firefox.desktop.in.h:3
-msgid "Browse the Web"
-msgstr "Navegue na Internet"
-
-msgid "New Window"
-msgstr "Nova janela"
-
-msgid "New Private Browsing Window"
-msgstr "Nova janela privada"
-
-#: firefox.desktop.in.h:6
-msgid "Profile Manager"
-msgstr ""
 
 #: snd.desktop.in.h:1
 msgid "Snd"

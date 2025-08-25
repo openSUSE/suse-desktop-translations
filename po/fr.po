@@ -6,9 +6,9 @@
 # Antoine Belvire <antoine.belvire@laposte.net>, 2014, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: update-desktop-files\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-30 22:48+0000\n"
+"Project-Id-Version: suse-desktop-translations\n"
+"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2022-03-03 12:12+0000\n"
 "Last-Translator: Sophie Leroy <sophie@stoquart.com>\n"
 "Language-Team: French <https://l10n.opensuse.org/projects/desktop-file-"
@@ -20,29 +20,37 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.9.1\n"
 
-#: firefox.desktop.in.h:1
-msgid "Firefox"
+#: com.langorigami.TreeMaker.desktop.in.h:1
+msgid "Origami Designer"
+msgstr ""
+
+#: firefox-esr.desktop.in.h:1
+msgid "Firefox ESR"
 msgstr "Firefox"
 
-#: firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
 msgid "Web Browser"
 msgstr "Navigateur Web"
 
-#: firefox.desktop.in.h:3
+#: firefox-esr.desktop.in.h:3 firefox.desktop.in.h:3
 msgid "Browse the Web"
 msgstr "Navigue sur Internet"
 
-#: firefox.desktop.in.h:4
+#: firefox-esr.desktop.in.h:4 firefox.desktop.in.h:4
 msgid "New Window"
 msgstr "Nouvelle fenêtre"
 
-#: firefox.desktop.in.h:5
+#: firefox-esr.desktop.in.h:5 firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
 msgstr "Nouvelle fenêtre de navigation privée"
 
-#: firefox.desktop.in.h:6
+#: firefox-esr.desktop.in.h:6 firefox.desktop.in.h:6
 msgid "Profile Manager"
 msgstr "Gestionnaire de profil"
+
+#: firefox.desktop.in.h:1
+msgid "Firefox"
+msgstr "Firefox"
 
 #: snd.desktop.in.h:1
 msgid "Snd"
