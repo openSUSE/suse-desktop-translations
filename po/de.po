@@ -13,24 +13,24 @@ msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
 "Report-Msgid-Bugs-To: sbrabec@suse.com\n"
 "POT-Creation-Date: 2025-08-25 18:49+0000\n"
-"PO-Revision-Date: 2024-04-25 22:43+0000\n"
-"Last-Translator: Bastian Veith <veith.bastian@pm.me>\n"
-"Language-Team: German <https://l10n.opensuse.org/projects/desktop-file-"
-"translations/update-desktop-files-apps-master/de/>\n"
+"PO-Revision-Date: 2025-08-27 04:59+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"Language-Team: German <https://l10n.opensuse.org/projects/"
+"suse-desktop-translations/main/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9.1\n"
+"X-Generator: Weblate 5.13\n"
 
 #: com.langorigami.TreeMaker.desktop.in.h:1
 msgid "Origami Designer"
-msgstr ""
+msgstr "Origami-Designer"
 
 #: firefox-esr.desktop.in.h:1
 msgid "Firefox ESR"
-msgstr "Firefox"
+msgstr "Firefox ESR"
 
 #: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
 msgid "Web Browser"
