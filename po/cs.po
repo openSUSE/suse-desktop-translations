@@ -11,7 +11,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
-"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2024-05-05 11:43+0000\n"
 "Last-Translator: Aleš Kastner <alkas@volny.cz>\n"
@@ -32,7 +32,7 @@ msgstr ""
 msgid "Firefox ESR"
 msgstr "Firefox"
 
-#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2 seamonkey.desktop.in.h:2
 msgid "Web Browser"
 msgstr "Webový prohlížeč"
 
@@ -55,6 +55,38 @@ msgstr "Správa profilů"
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr "Firefox"
+
+#: seamonkey-composer.desktop.in.h:1
+msgid "SeaMonkey Composer"
+msgstr "SeaMonkey Composer"
+
+#: seamonkey-composer.desktop.in.h:2
+msgid "Web Page Creation"
+msgstr "Tvorba webových stránek"
+
+#: seamonkey-composer.desktop.in.h:3
+msgid "Create web pages with SeaMonkey"
+msgstr "Vytvořit webovou stránku s SeaMonkey"
+
+#: seamonkey-mail.desktop.in.h:1
+msgid "SeaMonkey Mail"
+msgstr "SeaMonkey Mail"
+
+#: seamonkey-mail.desktop.in.h:2
+msgid "Mail Client"
+msgstr "Klient pro čtení elektronické pošty"
+
+#: seamonkey-mail.desktop.in.h:3
+msgid "Read Mail with SeaMonkey"
+msgstr "Přečíst zprávu v SeaMonkey"
+
+#: seamonkey.desktop.in.h:1
+msgid "SeaMonkey"
+msgstr "SeaMonkey"
+
+#: seamonkey.desktop.in.h:3
+msgid "SeaMonkey browser"
+msgstr "Prohlížeč SeaMonkey"
 
 #: snd.desktop.in.h:1
 msgid "Snd"

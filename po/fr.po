@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
-"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2022-03-03 12:12+0000\n"
 "Last-Translator: Sophie Leroy <sophie@stoquart.com>\n"
@@ -28,7 +28,7 @@ msgstr ""
 msgid "Firefox ESR"
 msgstr "Firefox"
 
-#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2 seamonkey.desktop.in.h:2
 msgid "Web Browser"
 msgstr "Navigateur Web"
 
@@ -51,6 +51,38 @@ msgstr "Gestionnaire de profil"
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr "Firefox"
+
+#: seamonkey-composer.desktop.in.h:1
+msgid "SeaMonkey Composer"
+msgstr "Gestionnaire de composition de SeaMonkey"
+
+#: seamonkey-composer.desktop.in.h:2
+msgid "Web Page Creation"
+msgstr "Création de pages Web"
+
+#: seamonkey-composer.desktop.in.h:3
+msgid "Create web pages with SeaMonkey"
+msgstr "Créer des pages web avec SeaMonkey"
+
+#: seamonkey-mail.desktop.in.h:1
+msgid "SeaMonkey Mail"
+msgstr "Messagerie de SeaMonkey"
+
+#: seamonkey-mail.desktop.in.h:2
+msgid "Mail Client"
+msgstr "Client de messagerie"
+
+#: seamonkey-mail.desktop.in.h:3
+msgid "Read Mail with SeaMonkey"
+msgstr "Lire un message électronique à l'aide de SeaMonkey"
+
+#: seamonkey.desktop.in.h:1
+msgid "SeaMonkey"
+msgstr "SeaMonkey"
+
+#: seamonkey.desktop.in.h:3
+msgid "SeaMonkey browser"
+msgstr "Navigateur de SeaMonkey"
 
 #: snd.desktop.in.h:1
 msgid "Snd"

@@ -12,7 +12,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
-"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2024-05-13 05:43+0000\n"
 "Last-Translator: Dankaházi (ifj) István <dankahazi.istvan@gmail.com>\n"
@@ -33,7 +33,7 @@ msgstr ""
 msgid "Firefox ESR"
 msgstr "Firefox"
 
-#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2 seamonkey.desktop.in.h:2
 msgid "Web Browser"
 msgstr "Webböngésző"
 
@@ -56,6 +56,38 @@ msgstr ""
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr "Firefox"
+
+#: seamonkey-composer.desktop.in.h:1
+msgid "SeaMonkey Composer"
+msgstr "SeaMonkey szerkesztő"
+
+#: seamonkey-composer.desktop.in.h:2
+msgid "Web Page Creation"
+msgstr "Weboldalkészítő"
+
+#: seamonkey-composer.desktop.in.h:3
+msgid "Create web pages with SeaMonkey"
+msgstr "Weboldalak létrehozása SeaMonkey segítségével"
+
+#: seamonkey-mail.desktop.in.h:1
+msgid "SeaMonkey Mail"
+msgstr "SeaMonkey levelezés"
+
+#: seamonkey-mail.desktop.in.h:2
+msgid "Mail Client"
+msgstr "Levelezőprogram"
+
+#: seamonkey-mail.desktop.in.h:3
+msgid "Read Mail with SeaMonkey"
+msgstr "Levél olvasása a SeaMonkey segítségével"
+
+#: seamonkey.desktop.in.h:1
+msgid "SeaMonkey"
+msgstr "SeaMonkey"
+
+#: seamonkey.desktop.in.h:3
+msgid "SeaMonkey browser"
+msgstr "SeaMonkey böngésző"
 
 #: snd.desktop.in.h:1
 msgid "Snd"

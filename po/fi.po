@@ -20,7 +20,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
-"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2023-03-14 13:14+0000\n"
 "Last-Translator: Kimmo Kujansuu <mrkujansuu@gmail.com>\n"
@@ -41,7 +41,7 @@ msgstr ""
 msgid "Firefox ESR"
 msgstr "Firefox"
 
-#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2 seamonkey.desktop.in.h:2
 msgid "Web Browser"
 msgstr "Verkkoselain"
 
@@ -64,6 +64,38 @@ msgstr ""
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr "Firefox"
+
+#: seamonkey-composer.desktop.in.h:1
+msgid "SeaMonkey Composer"
+msgstr "SeaMonkey Composer"
+
+#: seamonkey-composer.desktop.in.h:2
+msgid "Web Page Creation"
+msgstr "Verkkosivun luonti"
+
+#: seamonkey-composer.desktop.in.h:3
+msgid "Create web pages with SeaMonkey"
+msgstr "Luo verkkosivuja SeaMonkeylla"
+
+#: seamonkey-mail.desktop.in.h:1
+msgid "SeaMonkey Mail"
+msgstr "SeaMonkey-sähköposti"
+
+#: seamonkey-mail.desktop.in.h:2
+msgid "Mail Client"
+msgstr "Sähköpostiohjelma"
+
+#: seamonkey-mail.desktop.in.h:3
+msgid "Read Mail with SeaMonkey"
+msgstr "Lue sähköposti SeaMonkeylla"
+
+#: seamonkey.desktop.in.h:1
+msgid "SeaMonkey"
+msgstr "SeaMonkey"
+
+#: seamonkey.desktop.in.h:3
+msgid "SeaMonkey browser"
+msgstr "SeaMonkey-selain"
 
 #: snd.desktop.in.h:1
 msgid "Snd"

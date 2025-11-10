@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
-"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2018-04-26 18:07+0000\n"
 "Last-Translator: Konstantina Tsolakoglou <konstantina@accountant.com>\n"
@@ -22,7 +22,7 @@ msgstr ""
 msgid "Firefox ESR"
 msgstr "Firefox"
 
-#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2 seamonkey.desktop.in.h:2
 msgid "Web Browser"
 msgstr "Περιηγητής ιστοσελίδων"
 
@@ -45,6 +45,38 @@ msgstr ""
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr "Firefox"
+
+#: seamonkey-composer.desktop.in.h:1
+msgid "SeaMonkey Composer"
+msgstr "SeaMonkey Composer"
+
+#: seamonkey-composer.desktop.in.h:2
+msgid "Web Page Creation"
+msgstr "Δημιουργία Ιστοσελίδων"
+
+#: seamonkey-composer.desktop.in.h:3
+msgid "Create web pages with SeaMonkey"
+msgstr "Δημιούργησε ιστοσελίδες με το SeaMonkey"
+
+#: seamonkey-mail.desktop.in.h:1
+msgid "SeaMonkey Mail"
+msgstr "Αλληλογραφία SeaMonkey"
+
+#: seamonkey-mail.desktop.in.h:2
+msgid "Mail Client"
+msgstr "Πελάτης Αλληλογραφίας"
+
+#: seamonkey-mail.desktop.in.h:3
+msgid "Read Mail with SeaMonkey"
+msgstr "Ανάγνωση Αλληλογραφίας με το SeaMonkey"
+
+#: seamonkey.desktop.in.h:1
+msgid "SeaMonkey"
+msgstr "SeaMonkey"
+
+#: seamonkey.desktop.in.h:3
+msgid "SeaMonkey browser"
+msgstr "Περιηγητής SeaMonkey"
 
 #: snd.desktop.in.h:1
 msgid "Snd"

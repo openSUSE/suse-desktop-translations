@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
-"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2023-05-11 14:14+0000\n"
 "Last-Translator: meshari alnaim <m.alnaim426@gmail.com>\n"
@@ -29,7 +29,7 @@ msgstr ""
 msgid "Firefox ESR"
 msgstr "فيَرفُكس"
 
-#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2 seamonkey.desktop.in.h:2
 msgid "Web Browser"
 msgstr "متصفّح وِب"
 
@@ -52,6 +52,38 @@ msgstr ""
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr "فيَرفُكس"
+
+#: seamonkey-composer.desktop.in.h:1
+msgid "SeaMonkey Composer"
+msgstr "مكون سيمانكي"
+
+#: seamonkey-composer.desktop.in.h:2
+msgid "Web Page Creation"
+msgstr "إنشاء صفحات وِب"
+
+#: seamonkey-composer.desktop.in.h:3
+msgid "Create web pages with SeaMonkey"
+msgstr "إنشاء صفحات ويب باستخدام SeaMonkey"
+
+#: seamonkey-mail.desktop.in.h:1
+msgid "SeaMonkey Mail"
+msgstr "بريد سيمانكي"
+
+#: seamonkey-mail.desktop.in.h:2
+msgid "Mail Client"
+msgstr "عميل بريد"
+
+#: seamonkey-mail.desktop.in.h:3
+msgid "Read Mail with SeaMonkey"
+msgstr "قراءة البريد باستخدام SeaMonkey"
+
+#: seamonkey.desktop.in.h:1
+msgid "SeaMonkey"
+msgstr "سيمانكي"
+
+#: seamonkey.desktop.in.h:3
+msgid "SeaMonkey browser"
+msgstr "مستعرض سيمانكي"
 
 #: snd.desktop.in.h:1
 msgid "Snd"

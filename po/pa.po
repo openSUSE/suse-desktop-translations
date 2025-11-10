@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
-"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2008-11-23 08:16+0530\n"
 "Last-Translator: KDB <brar.kd@gmail.com>\n"
@@ -29,9 +29,9 @@ msgstr ""
 msgid "Firefox ESR"
 msgstr ""
 
-#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2 seamonkey.desktop.in.h:2
 msgid "Web Browser"
-msgstr ""
+msgstr "ਵੈੱਬ ਬਰਾਊਜ਼ਰ"
 
 #: firefox-esr.desktop.in.h:3 firefox.desktop.in.h:3
 msgid "Browse the Web"
@@ -52,6 +52,38 @@ msgstr ""
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr ""
+
+#: seamonkey-composer.desktop.in.h:1
+msgid "SeaMonkey Composer"
+msgstr "SeaMonkey ਕੰਪੋਜ਼ਰ"
+
+#: seamonkey-composer.desktop.in.h:2
+msgid "Web Page Creation"
+msgstr "ਵੈੱਬ ਸਫ਼ਾ ਨਿਰਮਾਣ"
+
+#: seamonkey-composer.desktop.in.h:3
+msgid "Create web pages with SeaMonkey"
+msgstr "ਸੀ-ਮਾਨਕੀ ਨਾਲ ਮੇਲ ਪੜ੍ਹੋ"
+
+#: seamonkey-mail.desktop.in.h:1
+msgid "SeaMonkey Mail"
+msgstr "SeaMonkey ਮੇਲ"
+
+#: seamonkey-mail.desktop.in.h:2
+msgid "Mail Client"
+msgstr "ਮੇਲ ਕਲਾਇਟ"
+
+#: seamonkey-mail.desktop.in.h:3
+msgid "Read Mail with SeaMonkey"
+msgstr "ਸੀ-ਮਾਨਕੀ ਨਾਲ ਮੇਲ ਪੜ੍ਹੋ"
+
+#: seamonkey.desktop.in.h:1
+msgid "SeaMonkey"
+msgstr "SeaMonkey"
+
+#: seamonkey.desktop.in.h:3
+msgid "SeaMonkey browser"
+msgstr "SeaMonkey ਬਰਾਊਜ਼ਰ"
 
 #: snd.desktop.in.h:1
 msgid "Snd"

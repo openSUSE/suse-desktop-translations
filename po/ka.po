@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
-"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2025-11-03 07:04+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
-"Language-Team: Georgian <https://l10n.opensuse.org/projects/"
-"suse-desktop-translations/main/ka/>\n"
+"Language-Team: Georgian <https://l10n.opensuse.org/projects/suse-desktop-"
+"translations/main/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +22,7 @@ msgstr "Origami-ის დიზაინერი"
 msgid "Firefox ESR"
 msgstr "Firefox ESR"
 
-#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2 seamonkey.desktop.in.h:2
 msgid "Web Browser"
 msgstr "ბრაუზერი"
 
@@ -45,6 +45,38 @@ msgstr "პროფილების მმართველი"
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr "Firefox"
+
+#: seamonkey-composer.desktop.in.h:1
+msgid "SeaMonkey Composer"
+msgstr ""
+
+#: seamonkey-composer.desktop.in.h:2
+msgid "Web Page Creation"
+msgstr ""
+
+#: seamonkey-composer.desktop.in.h:3
+msgid "Create web pages with SeaMonkey"
+msgstr ""
+
+#: seamonkey-mail.desktop.in.h:1
+msgid "SeaMonkey Mail"
+msgstr ""
+
+#: seamonkey-mail.desktop.in.h:2
+msgid "Mail Client"
+msgstr ""
+
+#: seamonkey-mail.desktop.in.h:3
+msgid "Read Mail with SeaMonkey"
+msgstr ""
+
+#: seamonkey.desktop.in.h:1
+msgid "SeaMonkey"
+msgstr ""
+
+#: seamonkey.desktop.in.h:3
+msgid "SeaMonkey browser"
+msgstr ""
 
 #: snd.desktop.in.h:1
 msgid "Snd"

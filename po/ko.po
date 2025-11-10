@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
-"Report-Msgid-Bugs-To: sbrabec@suse.com\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-25 18:49+0000\n"
 "PO-Revision-Date: 2019-03-14 18:03+0000\n"
 "Last-Translator: DaeHyun Sung <sungdh86@gmail.com>\n"
@@ -25,7 +25,7 @@ msgstr ""
 msgid "Firefox ESR"
 msgstr ""
 
-#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2
+#: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2 seamonkey.desktop.in.h:2
 msgid "Web Browser"
 msgstr "웹 브라우저"
 
@@ -48,6 +48,38 @@ msgstr ""
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr ""
+
+#: seamonkey-composer.desktop.in.h:1
+msgid "SeaMonkey Composer"
+msgstr "씨몽키 작성"
+
+#: seamonkey-composer.desktop.in.h:2
+msgid "Web Page Creation"
+msgstr "웹 페이지 만들기"
+
+#: seamonkey-composer.desktop.in.h:3
+msgid "Create web pages with SeaMonkey"
+msgstr "씨몽키로 웹 페이지 생성"
+
+#: seamonkey-mail.desktop.in.h:1
+msgid "SeaMonkey Mail"
+msgstr "씨몽키 메일"
+
+#: seamonkey-mail.desktop.in.h:2
+msgid "Mail Client"
+msgstr "메일 클라이언트"
+
+#: seamonkey-mail.desktop.in.h:3
+msgid "Read Mail with SeaMonkey"
+msgstr "씨몽키로 메일 읽기"
+
+#: seamonkey.desktop.in.h:1
+msgid "SeaMonkey"
+msgstr "씨몽키"
+
+#: seamonkey.desktop.in.h:3
+msgid "SeaMonkey browser"
+msgstr "씨몽키 탐색기"
 
 #: snd.desktop.in.h:1
 msgid "Snd"
