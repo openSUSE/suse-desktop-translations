@@ -5,16 +5,16 @@ msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-25 18:49+0000\n"
-"PO-Revision-Date: 2025-09-23 09:59+0000\n"
+"PO-Revision-Date: 2025-11-14 10:04+0000\n"
 "Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/suse-desktop-"
-"translations/main/ca/>\n"
+"Language-Team: Catalan <https://l10n.opensuse.org/projects/"
+"suse-desktop-translations/main/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.14.3\n"
 "X-Poedit-Bookmarks: -1,15,-1,-1,-1,-1,-1,861,-1,-1\n"
 
 #: com.langorigami.TreeMaker.desktop.in.h:1
@@ -91,7 +91,7 @@ msgstr "Editor de so Snd"
 
 #: thunderbird-esr.desktop.in.h:1
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 #: thunderbird-esr.desktop.in.h:2
 msgid "Mail/News Client"
