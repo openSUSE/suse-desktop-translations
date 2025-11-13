@@ -91,3 +91,11 @@ msgstr "Миксета за звук"
 #, fuzzy
 msgid "the Snd sound editor"
 msgstr "Уредувач на мени"
+
+#: thunderbird-esr.desktop.in.h:1
+msgid "Thunderbird"
+msgstr ""
+
+#: thunderbird-esr.desktop.in.h:2
+msgid "Mail/News Client"
+msgstr ""

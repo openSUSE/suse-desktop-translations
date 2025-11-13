@@ -84,3 +84,11 @@ msgstr "Bunyi"
 #, fuzzy
 msgid "the Snd sound editor"
 msgstr "Editor Menu"
+
+#: thunderbird-esr.desktop.in.h:1
+msgid "Thunderbird"
+msgstr ""
+
+#: thunderbird-esr.desktop.in.h:2
+msgid "Mail/News Client"
+msgstr ""

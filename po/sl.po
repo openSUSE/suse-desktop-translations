@@ -93,3 +93,11 @@ msgstr "Zvok"
 #, fuzzy
 msgid "the Snd sound editor"
 msgstr "Urejevalnik dConf"
+
+#: thunderbird-esr.desktop.in.h:1
+msgid "Thunderbird"
+msgstr ""
+
+#: thunderbird-esr.desktop.in.h:2
+msgid "Mail/News Client"
+msgstr ""

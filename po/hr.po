@@ -88,3 +88,11 @@ msgstr "Snd"
 #, fuzzy
 msgid "the Snd sound editor"
 msgstr "Uređivač zvuka"
+
+#: thunderbird-esr.desktop.in.h:1
+msgid "Thunderbird"
+msgstr ""
+
+#: thunderbird-esr.desktop.in.h:2
+msgid "Mail/News Client"
+msgstr "Program za čitanje elektroničke pošte"

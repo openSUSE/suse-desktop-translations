@@ -83,3 +83,11 @@ msgstr "பெயர்(எஸ்என்டி.டெஸ்க்டாப்)
 #: snd.desktop.in.h:2
 msgid "the Snd sound editor"
 msgstr "கருத்துரை(எஸ்என்டி.டெஸ்க்டாப்): எஸ்என்டி ஒலி திருத்தி"
+
+#: thunderbird-esr.desktop.in.h:1
+msgid "Thunderbird"
+msgstr ""
+
+#: thunderbird-esr.desktop.in.h:2
+msgid "Mail/News Client"
+msgstr ""
