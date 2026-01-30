@@ -14,21 +14,21 @@ msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-25 18:49+0000\n"
-"PO-Revision-Date: 2022-01-31 01:11+0000\n"
-"Last-Translator: Taras Panchenko <top39@ukr.net>\n"
-"Language-Team: Ukrainian <https://l10n.opensuse.org/projects/desktop-file-"
-"translations/update-desktop-files-apps-master/uk/>\n"
+"PO-Revision-Date: 2026-01-31 20:04+0000\n"
+"Last-Translator: Eugene Krater <lachend@gmail.com>\n"
+"Language-Team: Ukrainian <https://l10n.opensuse.org/projects/suse-desktop-"
+"translations/main/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.9.1\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #: com.langorigami.TreeMaker.desktop.in.h:1
 msgid "Origami Designer"
-msgstr ""
+msgstr "Оформлювач Origami"
 
 #: firefox-esr.desktop.in.h:1
 msgid "Firefox ESR"
@@ -100,8 +100,8 @@ msgstr "Редагування звуку -- Snd"
 
 #: thunderbird-esr.desktop.in.h:1
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 #: thunderbird-esr.desktop.in.h:2
 msgid "Mail/News Client"
-msgstr "Поштовий клієнт"
+msgstr "Поштовий\\новинний клієнт"
