@@ -14,24 +14,24 @@ msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-25 18:49+0000\n"
-"PO-Revision-Date: 2019-10-08 04:52+0000\n"
-"Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
-"Language-Team: Danish <https://l10n.opensuse.org/projects/desktop-file-"
-"translations/update-desktop-files-apps-master/da/>\n"
+"PO-Revision-Date: 2026-02-03 18:04+0000\n"
+"Last-Translator: Peter Andreasen <noesgaard@gmail.com>\n"
+"Language-Team: Danish <https://l10n.opensuse.org/projects/suse-desktop-"
+"translations/main/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.6.1\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #: com.langorigami.TreeMaker.desktop.in.h:1
 msgid "Origami Designer"
-msgstr ""
+msgstr "Origami Designer"
 
 #: firefox-esr.desktop.in.h:1
 msgid "Firefox ESR"
-msgstr "Firefox"
+msgstr "Firefox ESR"
 
 #: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2 seamonkey.desktop.in.h:2
 msgid "Web Browser"
@@ -39,7 +39,7 @@ msgstr "Webbrowser"
 
 #: firefox-esr.desktop.in.h:3 firefox.desktop.in.h:3
 msgid "Browse the Web"
-msgstr ""
+msgstr "Gå på nettet"
 
 #: firefox-esr.desktop.in.h:4 firefox.desktop.in.h:4
 msgid "New Window"
@@ -51,7 +51,7 @@ msgstr "Nyt privat vindue"
 
 #: firefox-esr.desktop.in.h:6 firefox.desktop.in.h:6
 msgid "Profile Manager"
-msgstr ""
+msgstr "Håndtering af profiler"
 
 #: firefox.desktop.in.h:1
 msgid "Firefox"
@@ -99,7 +99,7 @@ msgstr "Snd lydredigeringsværktøjet"
 
 #: thunderbird-esr.desktop.in.h:1
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 #: thunderbird-esr.desktop.in.h:2
 msgid "Mail/News Client"
