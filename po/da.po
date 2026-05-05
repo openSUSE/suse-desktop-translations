@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-25 18:49+0000\n"
+"POT-Creation-Date: 2026-05-01 13:05+0000\n"
 "PO-Revision-Date: 2026-02-03 18:04+0000\n"
 "Last-Translator: Peter Andreasen <noesgaard@gmail.com>\n"
 "Language-Team: Danish <https://l10n.opensuse.org/projects/suse-desktop-"
@@ -56,6 +56,14 @@ msgstr "Håndtering af profiler"
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr "Firefox"
+
+#: installation.desktop.in.h:1
+msgid "Installation"
+msgstr ""
+
+#: installation.desktop.in.h:2
+msgid "Install the system from online repositories"
+msgstr "Installer systemet fra online softwarekilder"
 
 #: seamonkey-composer.desktop.in.h:1
 msgid "SeaMonkey Composer"
@@ -104,3 +112,11 @@ msgstr "Thunderbird"
 #: thunderbird-esr.desktop.in.h:2
 msgid "Mail/News Client"
 msgstr "E-mail-klient"
+
+#: upgrade.desktop.in.h:1
+msgid "Upgrade"
+msgstr ""
+
+#: upgrade.desktop.in.h:2
+msgid "Upgrade an already installed system from online repositories"
+msgstr "Installer systemet fra online softwarekilder"

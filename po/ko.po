@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-25 18:49+0000\n"
+"POT-Creation-Date: 2026-05-01 13:05+0000\n"
 "PO-Revision-Date: 2019-03-14 18:03+0000\n"
 "Last-Translator: DaeHyun Sung <sungdh86@gmail.com>\n"
 "Language-Team: Korean <https://l10n.opensuse.org/projects/desktop-file-"
@@ -47,6 +47,14 @@ msgstr ""
 
 #: firefox.desktop.in.h:1
 msgid "Firefox"
+msgstr ""
+
+#: installation.desktop.in.h:1
+msgid "Installation"
+msgstr ""
+
+#: installation.desktop.in.h:2
+msgid "Install the system from online repositories"
 msgstr ""
 
 #: seamonkey-composer.desktop.in.h:1
@@ -96,3 +104,11 @@ msgstr ""
 #: thunderbird-esr.desktop.in.h:2
 msgid "Mail/News Client"
 msgstr "메일 클라이언트"
+
+#: upgrade.desktop.in.h:1
+msgid "Upgrade"
+msgstr ""
+
+#: upgrade.desktop.in.h:2
+msgid "Upgrade an already installed system from online repositories"
+msgstr ""

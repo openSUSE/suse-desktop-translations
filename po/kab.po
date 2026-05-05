@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-25 18:49+0000\n"
+"POT-Creation-Date: 2026-05-01 13:05+0000\n"
 "PO-Revision-Date: 2025-09-05 06:59+0000\n"
 "Last-Translator: Athmane MOKRAOUI <butterflyoffire+opensuse@protonmail.com>\n"
 "Language-Team: Kabyle <https://l10n.opensuse.org/projects/suse-desktop-"
@@ -45,6 +45,14 @@ msgstr "Amsefrak n umaɣnu"
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr "Firefox"
+
+#: installation.desktop.in.h:1
+msgid "Installation"
+msgstr ""
+
+#: installation.desktop.in.h:2
+msgid "Install the system from online repositories"
+msgstr ""
 
 #: seamonkey-composer.desktop.in.h:1
 msgid "SeaMonkey Composer"
@@ -99,3 +107,11 @@ msgid "Mail/News Client"
 msgstr ""
 "Igber lqem aneggaru n iseɣzanen n Mozilla, am Thunderbird yettwasnen (amsaɣ "
 "imayl), Firefox akked SeaMonkey (iminigen web)."
+
+#: upgrade.desktop.in.h:1
+msgid "Upgrade"
+msgstr ""
+
+#: upgrade.desktop.in.h:2
+msgid "Upgrade an already installed system from online repositories"
+msgstr ""

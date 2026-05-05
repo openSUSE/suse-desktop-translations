@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-25 18:49+0000\n"
+"POT-Creation-Date: 2026-05-01 13:05+0000\n"
 "PO-Revision-Date: 2026-01-31 20:04+0000\n"
 "Last-Translator: Eugene Krater <lachend@gmail.com>\n"
 "Language-Team: Ukrainian <https://l10n.opensuse.org/projects/suse-desktop-"
@@ -57,6 +57,14 @@ msgstr "Менеджер профілів"
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr "Firefox"
+
+#: installation.desktop.in.h:1
+msgid "Installation"
+msgstr "Встановлення"
+
+#: installation.desktop.in.h:2
+msgid "Install the system from online repositories"
+msgstr "Встановити систему з онлайн-сховищ"
 
 #: seamonkey-composer.desktop.in.h:1
 msgid "SeaMonkey Composer"
@@ -105,3 +113,11 @@ msgstr "Thunderbird"
 #: thunderbird-esr.desktop.in.h:2
 msgid "Mail/News Client"
 msgstr "Поштовий\\новинний клієнт"
+
+#: upgrade.desktop.in.h:1
+msgid "Upgrade"
+msgstr "Оновлення"
+
+#: upgrade.desktop.in.h:2
+msgid "Upgrade an already installed system from online repositories"
+msgstr "Оновити вже встановлену систему з онлайн-сховищ"

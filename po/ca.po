@@ -4,11 +4,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-25 18:49+0000\n"
+"POT-Creation-Date: 2026-05-01 13:05+0000\n"
 "PO-Revision-Date: 2025-11-14 10:04+0000\n"
 "Last-Translator: David Medina <medipas@gmail.com>\n"
-"Language-Team: Catalan <https://l10n.opensuse.org/projects/"
-"suse-desktop-translations/main/ca/>\n"
+"Language-Team: Catalan <https://l10n.opensuse.org/projects/suse-desktop-"
+"translations/main/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -48,6 +48,14 @@ msgstr "Gestor de perfils"
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr "Firefox"
+
+#: installation.desktop.in.h:1
+msgid "Installation"
+msgstr "Instal·lació"
+
+#: installation.desktop.in.h:2
+msgid "Install the system from online repositories"
+msgstr "Instal·leu el sistema des de repositoris en línia"
 
 #: seamonkey-composer.desktop.in.h:1
 msgid "SeaMonkey Composer"
@@ -96,3 +104,11 @@ msgstr "Thunderbird"
 #: thunderbird-esr.desktop.in.h:2
 msgid "Mail/News Client"
 msgstr "Client de correu"
+
+#: upgrade.desktop.in.h:1
+msgid "Upgrade"
+msgstr "Actualitza"
+
+#: upgrade.desktop.in.h:2
+msgid "Upgrade an already installed system from online repositories"
+msgstr "Actualitzeu un sistema ja instal·lat des de repositoris en línia"

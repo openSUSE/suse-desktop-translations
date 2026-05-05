@@ -4,11 +4,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-25 18:49+0000\n"
+"POT-Creation-Date: 2026-05-01 13:05+0000\n"
 "PO-Revision-Date: 2025-11-14 10:04+0000\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
-"Language-Team: Japanese <https://l10n.opensuse.org/projects/"
-"suse-desktop-translations/main/ja/>\n"
+"Language-Team: Japanese <https://l10n.opensuse.org/projects/suse-desktop-"
+"translations/main/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -47,6 +47,14 @@ msgstr "プロファイルマネージャ"
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr "Firefox"
+
+#: installation.desktop.in.h:1
+msgid "Installation"
+msgstr "インストール"
+
+#: installation.desktop.in.h:2
+msgid "Install the system from online repositories"
+msgstr "オンラインのリポジトリからシステムをインストールします"
 
 #: seamonkey-composer.desktop.in.h:1
 msgid "SeaMonkey Composer"
@@ -95,3 +103,13 @@ msgstr "Thunderbird"
 #: thunderbird-esr.desktop.in.h:2
 msgid "Mail/News Client"
 msgstr "メールクライアント"
+
+#: upgrade.desktop.in.h:1
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#: upgrade.desktop.in.h:2
+msgid "Upgrade an already installed system from online repositories"
+msgstr ""
+"オンラインのリポジトリを利用して、インストール済みのシステムをアップグレード"
+"します"

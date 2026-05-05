@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-25 18:49+0000\n"
+"POT-Creation-Date: 2026-05-01 13:05+0000\n"
 "PO-Revision-Date: 2003-09-23 10:33+0200\n"
 "Last-Translator: Kevin Donnelly <kevin@dotmon.com>\n"
 "Language-Team: Welsh <i18n@suse.de>\n"
@@ -43,6 +43,14 @@ msgstr ""
 
 #: firefox.desktop.in.h:1
 msgid "Firefox"
+msgstr ""
+
+#: installation.desktop.in.h:1
+msgid "Installation"
+msgstr ""
+
+#: installation.desktop.in.h:2
+msgid "Install the system from online repositories"
 msgstr ""
 
 #: seamonkey-composer.desktop.in.h:1
@@ -93,4 +101,12 @@ msgstr ""
 
 #: thunderbird-esr.desktop.in.h:2
 msgid "Mail/News Client"
+msgstr ""
+
+#: upgrade.desktop.in.h:1
+msgid "Upgrade"
+msgstr ""
+
+#: upgrade.desktop.in.h:2
+msgid "Upgrade an already installed system from online repositories"
 msgstr ""

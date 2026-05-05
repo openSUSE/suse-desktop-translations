@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-25 18:49+0000\n"
+"POT-Creation-Date: 2026-05-01 13:05+0000\n"
 "PO-Revision-Date: 2025-04-05 17:56+0000\n"
 "Last-Translator: Edouard Tavinor <edtavinor@posteo.de>\n"
 "Language-Team: Esperanto <https://l10n.opensuse.org/projects/suse-desktop-"
@@ -49,6 +49,14 @@ msgstr "Profila Mastrumilo"
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr "Firefox"
+
+#: installation.desktop.in.h:1
+msgid "Installation"
+msgstr ""
+
+#: installation.desktop.in.h:2
+msgid "Install the system from online repositories"
+msgstr ""
 
 #: seamonkey-composer.desktop.in.h:1
 msgid "SeaMonkey Composer"
@@ -96,4 +104,12 @@ msgstr ""
 
 #: thunderbird-esr.desktop.in.h:2
 msgid "Mail/News Client"
+msgstr ""
+
+#: upgrade.desktop.in.h:1
+msgid "Upgrade"
+msgstr ""
+
+#: upgrade.desktop.in.h:2
+msgid "Upgrade an already installed system from online repositories"
 msgstr ""

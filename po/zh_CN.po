@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-25 18:49+0000\n"
+"POT-Creation-Date: 2026-05-01 13:05+0000\n"
 "PO-Revision-Date: 2024-01-25 04:59+0000\n"
 "Last-Translator: Foo Bar <foobarcc@segfault.net>\n"
 "Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/desktop-"
@@ -55,6 +55,14 @@ msgstr ""
 #: firefox.desktop.in.h:1
 msgid "Firefox"
 msgstr "火狐"
+
+#: installation.desktop.in.h:1
+msgid "Installation"
+msgstr "安装"
+
+#: installation.desktop.in.h:2
+msgid "Install the system from online repositories"
+msgstr "从在线仓库升级已经安装好的系统"
 
 #: seamonkey-composer.desktop.in.h:1
 msgid "SeaMonkey Composer"
@@ -103,3 +111,11 @@ msgstr ""
 #: thunderbird-esr.desktop.in.h:2
 msgid "Mail/News Client"
 msgstr "邮件客户端"
+
+#: upgrade.desktop.in.h:1
+msgid "Upgrade"
+msgstr "升级"
+
+#: upgrade.desktop.in.h:2
+msgid "Upgrade an already installed system from online repositories"
+msgstr "从在线仓库升级已经安装好的系统"
