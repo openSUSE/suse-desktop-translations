@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-01 13:05+0000\n"
-"PO-Revision-Date: 2025-11-14 10:04+0000\n"
+"PO-Revision-Date: 2026-05-06 21:53+0000\n"
 "Last-Translator: Yasuhiko Kamata <belphegor@belbel.or.jp>\n"
 "Language-Team: Japanese <https://l10n.opensuse.org/projects/suse-desktop-"
 "translations/main/ja/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: com.langorigami.TreeMaker.desktop.in.h:1
 msgid "Origami Designer"
@@ -102,7 +102,7 @@ msgstr "Thunderbird"
 
 #: thunderbird-esr.desktop.in.h:2
 msgid "Mail/News Client"
-msgstr "メールクライアント"
+msgstr "メール／ニュースクライアント"
 
 #: upgrade.desktop.in.h:1
 msgid "Upgrade"
