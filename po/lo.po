@@ -3,111 +3,109 @@ msgstr ""
 "Project-Id-Version: suse-desktop-translations\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-01 13:05+0000\n"
-"PO-Revision-Date: 2019-06-20 04:49+0000\n"
-"Last-Translator: Saikeo Kavhanxay <kavhanxay@hotmail.com>\n"
-"Language-Team: Lao <https://l10n.opensuse.org/projects/desktop-file-"
-"translations/update-desktop-files-apps-master/lo/>\n"
+"PO-Revision-Date: 2026-08-20 01:24+0000\n"
+"Last-Translator: Bone NI <bounkirdni@gmail.com>\n"
+"Language-Team: Lao <https://l10n.opensuse.org/projects/suse-desktop-"
+"translations/main/lo/>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.6.1\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 #: com.langorigami.TreeMaker.desktop.in.h:1
 msgid "Origami Designer"
-msgstr ""
+msgstr "ນັກອອກແບບ ໂອຣິກາມິ"
 
 #: firefox-esr.desktop.in.h:1
 msgid "Firefox ESR"
-msgstr ""
+msgstr "Firefox ESR"
 
 #: firefox-esr.desktop.in.h:2 firefox.desktop.in.h:2 seamonkey.desktop.in.h:2
 msgid "Web Browser"
-msgstr ""
+msgstr "ເວັບບຣາວເຊີ"
 
 #: firefox-esr.desktop.in.h:3 firefox.desktop.in.h:3
 msgid "Browse the Web"
-msgstr ""
+msgstr "ທ່ອງເວັບ"
 
 #: firefox-esr.desktop.in.h:4 firefox.desktop.in.h:4
 msgid "New Window"
-msgstr "ຫນ້າຕ່າງໃຫມ່"
+msgstr "ໜ້າຕ່າງໃໝ່"
 
 #: firefox-esr.desktop.in.h:5 firefox.desktop.in.h:5
 msgid "New Private Browsing Window"
-msgstr "ເປີດຫນ້າຕ່າງສວນຕົວຂື້ນມາໃຫມ່"
+msgstr "ໜ້າຕ່າງທ່ອງເວັບແບບສ່ວນຕົວໃໝ່"
 
 #: firefox-esr.desktop.in.h:6 firefox.desktop.in.h:6
 msgid "Profile Manager"
-msgstr ""
+msgstr "ຕົວຈັດການໂປຣໄຟລ໌"
 
 #: firefox.desktop.in.h:1
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #: installation.desktop.in.h:1
 msgid "Installation"
-msgstr ""
+msgstr "ການຕິດຕັ້ງ"
 
 #: installation.desktop.in.h:2
 msgid "Install the system from online repositories"
-msgstr ""
+msgstr "ຕິດຕັ້ງລະບົບຈາກແຫຼ່ງເກັບຂໍ້ມູນອອນລາຍ"
 
 #: seamonkey-composer.desktop.in.h:1
 msgid "SeaMonkey Composer"
-msgstr ""
+msgstr "SeaMonkey Composer"
 
 #: seamonkey-composer.desktop.in.h:2
 msgid "Web Page Creation"
-msgstr ""
+msgstr "ການສ້າງເວັບເພຈ"
 
 #: seamonkey-composer.desktop.in.h:3
 msgid "Create web pages with SeaMonkey"
-msgstr ""
+msgstr "ສ້າງເວັບເພຈດ້ວຍ SeaMonkey"
 
 #: seamonkey-mail.desktop.in.h:1
 msgid "SeaMonkey Mail"
-msgstr ""
+msgstr "SeaMonkey Mail"
 
 #: seamonkey-mail.desktop.in.h:2
 msgid "Mail Client"
-msgstr ""
+msgstr "ໂປຣແກຣມຮັບສົ່ງອີເມລ"
 
 #: seamonkey-mail.desktop.in.h:3
 msgid "Read Mail with SeaMonkey"
-msgstr ""
+msgstr "ອ່ານອີເມລດ້ວຍ SeaMonkey"
 
 #: seamonkey.desktop.in.h:1
 msgid "SeaMonkey"
-msgstr ""
+msgstr "SeaMonkey"
 
 #: seamonkey.desktop.in.h:3
 msgid "SeaMonkey browser"
-msgstr ""
+msgstr "ບຣາວເຊີ SeaMonkey"
 
 #: snd.desktop.in.h:1
-#, fuzzy
 msgid "Snd"
-msgstr "ສຽງ"
+msgstr "Snd"
 
 #: snd.desktop.in.h:2
-#, fuzzy
 msgid "the Snd sound editor"
-msgstr "ເຄື່ອງມືແກ້ໄຂຂໍ້ຄວາມ"
+msgstr "ໂປຣແກຣມແກ້ໄຂສຽງ Snd"
 
 #: thunderbird-esr.desktop.in.h:1
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 #: thunderbird-esr.desktop.in.h:2
 msgid "Mail/News Client"
-msgstr ""
+msgstr "ໂປຣແກຣມຮັບສົ່ງ ອີເມລ/ຂ່າວສານ"
 
 #: upgrade.desktop.in.h:1
 msgid "Upgrade"
-msgstr ""
+msgstr "ອັບເກຣດ"
 
 #: upgrade.desktop.in.h:2
 msgid "Upgrade an already installed system from online repositories"
-msgstr ""
+msgstr "ອັບເກຣດລະບົບທີ່ຕິດຕັ້ງແລ້ວຈາກແຫຼ່ງເກັບຂໍ້ມູນອອນລາຍ"
